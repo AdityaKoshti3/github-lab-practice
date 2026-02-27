@@ -2,7 +2,8 @@
 
 Learning collaborative Git workflows
 
-\## Project Status
+## Features
+Profile page with personal information
 
+## Project Status
 In active development
-
